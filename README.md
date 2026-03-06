@@ -39,7 +39,7 @@
 > Contact: haowu.ai.research@gmail.com, xyshen@eitech.edu.cn
 
 
-If you find HiDrop useful for your research and applications, please consider citing:
+If you find this work useful for your research and applications, please consider citing:
 
 ```bibtex
 @misc{wu2026utptracksimpleunifiedtoken,
