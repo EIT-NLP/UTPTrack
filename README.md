@@ -16,7 +16,7 @@
 
 > <strong> UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking </strong>
 >
-> <a href="https://scholar.google.com/citations?user=Ix9RD18AAAAJ" rel="nofollow">Hao Wu</a><sup>\*,1,2</sup>, 
+> <a href="https://harrisonwu42.github.io/" rel="nofollow">Hao Wu</a><sup>\*,1,2</sup>, 
 <a href="https://scholar.google.com/citations?user=WP9E-ogAAAAJ" rel="nofollow">Xudong Wang</a><sup>\*,1</sup>,
 <a href="https://scholar.google.com/citations?user=zk2uLXoAAAAJ" rel="nofollow">Jialiang Zhang</a><sup>1</sup>,
 <a href="https://scholar.google.com/citations?user=Amv2QE8AAAAJ" rel="nofollow">Junlong Tong</a><sup>1,2,3</sup>, 
