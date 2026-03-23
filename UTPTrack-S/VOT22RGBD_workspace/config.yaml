@@ -1,0 +1,4 @@
+registry:
+- ./ceatettamma_b224.ini
+
+stack: vot2022/rgbd
