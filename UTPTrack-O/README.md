@@ -102,21 +102,3 @@ python tracking/profile_model.py --script ostrack --config vitb_256_mae_ce_32x4_
 # Profiling vitb_384_mae_ce_32x4_ep300
 python tracking/profile_model.py --script ostrack --config vitb_384_mae_ce_32x4_ep300
 ```
-
-
-## Acknowledgments
-* Thanks for the [STARK](https://github.com/researchmm/Stark) and [PyTracking](https://github.com/visionml/pytracking) library, which helps us to quickly implement our ideas.
-* We use the implementation of the ViT from the [Timm](https://github.com/rwightman/pytorch-image-models) repo.  
-
-
-## Citation
-If our work is useful for your research, please consider citing:
-
-```Bibtex
-@inproceedings{ye2022ostrack,
-  title={Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework},
-  author={Ye, Botao and Chang, Hong and Ma, Bingpeng and Shan, Shiguang and Chen, Xilin},
-  booktitle={ECCV},
-  year={2022}
-}
-```
