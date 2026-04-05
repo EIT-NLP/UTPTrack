@@ -71,8 +71,7 @@ If you find this work useful for your research and applications, please consider
 
 - **Unified pruning across three components**: UTPTrack is the first unified token pruning framework that jointly prunes search region, dynamic template, and static template, enabling holistic redundancy modeling.
 - **Unified pruning across modalities**: The proposed pruning strategy naturally generalizes to RGB, multimodal, and language-guided tracking via modality-aware and text-guided token selection.
-- **More pruning, better performance**: Removes over 65% tokens while matching or even outperforming the base model.
-
+- **More pruning, better performance**: Removes over 65% tokens while matching or even outperforming the base model, effectively eliminating redundancy without harming key representations.
 
 ## 📚 Contents <a id="contents"></a>
 
