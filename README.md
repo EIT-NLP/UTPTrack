@@ -65,6 +65,9 @@ If you find this work useful for your research and applications, please consider
 ## 💡 Highlights (TODO) <a id="highlights"></a>
 
 
+## Install the environment
+UTPTrack-S and UTPTrack-O require two separate Python environments. Detailed installation instructions can be found in the README.md within each respective directory.
+
 ## 📚 Contents <a id="contents"></a>
 
 - [News](#news): Latest updates, news, and announcements.
