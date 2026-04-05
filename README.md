@@ -39,6 +39,10 @@
 > Contact: haowu.ai.research@gmail.com, xyshen@eitech.edu.cn
 
 
+<p align="center">
+  <img src="assets/utptrack.png">
+</p>
+
 If you find this work useful for your research and applications, please consider citing:
 
 ```bibtex
@@ -58,24 +62,32 @@ If you find this work useful for your research and applications, please consider
 
 ## 🔥News <a id="news"></a>
 
-- **[TODO]** Code, checkpoints, and documentation are being prepared and will be released soon.
+- **[2026.04.05]** Code, checkpoints, and documentation are released.
 - **[2026.02.27]** The preprint is now published! 
+- **[2026.02.21]** 🎉 UTPTrack is accepted by CVPR 2026 !
 
 
-## 💡 Highlights (TODO) <a id="highlights"></a>
+## 💡 Highlights <a id="highlights"></a>
 
+- **Unified pruning across three components**: UTPTrack is the first unified token pruning framework that jointly prunes search region, dynamic template, and static template, enabling holistic redundancy modeling.
+- **Unified pruning across modalities**: The proposed pruning strategy naturally generalizes to RGB, multimodal, and language-guided tracking via modality-aware and text-guided token selection.
+- **More pruning, better performance**: Removes over 65% tokens while matching or even outperforming the base model.
 
-## Install the environment
-UTPTrack-S and UTPTrack-O require two separate Python environments. Detailed installation instructions can be found in the README.md within each respective directory.
 
 ## 📚 Contents <a id="contents"></a>
 
 - [News](#news): Latest updates, news, and announcements.
 - [Highlights](#highlights): Core insights and key features highlighted in this work.
+- [Preparation & Usage](#usage): Environment setup, dependencies, checkpoint/data preparation, and instructions for training and evaluation.
 - [License](#license): License information for this repository.
 - [Acknowledgments](#acknowledgments): Credits to projects and contributors that inspired or supported this work.
 - [Contact](#contact): Contact information for questions, feedback, or collaboration.
 - [Related Projects](#projects): Research projects from our group ([EIT-NLP](https://idt.eitech.edu.cn/nlp/)) related to MLLM compression.
+
+## 🎯 Preparation & Usage <a id="usage"></a>
+
+See [UTPTrack-O](https://github.com/EIT-NLP/UTPTrack/tree/main/UTPTrack-O) and [UTPTrack-S](https://github.com/EIT-NLP/UTPTrack/tree/main/UTPTrack-S) for details.
+
 
 ## 📄 License <a id="license"></a>
 
